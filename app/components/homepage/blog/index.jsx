@@ -28,7 +28,7 @@ function Blog({ blogs }) {
       </div>
 
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3 md:gap-5 lg:gap-8 xl:gap-10">
-           <div className="border border-[#1d293a] hover:border-[#464c6a] transition-all duration-500 bg-[#1b203e] rounded-lg relative group">
+        <div className="border border-[#1d293a] hover:border-[#464c6a] transition-all duration-500 bg-[#1b203e] rounded-lg relative group">
           <div className="h-44 lg:h-52 w-auto cursor-pointer overflow-hidden rounded-t-lg">
             <Image
               src= "/images/inarihan.png"
@@ -50,7 +50,6 @@ function Blog({ blogs }) {
               </p>
           </div>
         </div>
-         
         <div className="border border-[#1d293a] hover:border-[#464c6a] transition-all duration-500 bg-[#1b203e] rounded-lg relative group">
           <div className="h-44 lg:h-52 w-auto cursor-pointer overflow-hidden rounded-t-lg">
             <Image
@@ -73,7 +72,7 @@ function Blog({ blogs }) {
               </p>
           </div>
         </div>
-            <div className="border border-[#1d293a] hover:border-[#464c6a] transition-all duration-500 bg-[#1b203e] rounded-lg relative group">
+        <div className="border border-[#1d293a] hover:border-[#464c6a] transition-all duration-500 bg-[#1b203e] rounded-lg relative group">
           <div className="h-44 lg:h-52 w-auto cursor-pointer overflow-hidden rounded-t-lg">
             <Image
               src= "/images/oma.png"
