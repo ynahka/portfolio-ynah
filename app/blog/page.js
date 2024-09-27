@@ -44,7 +44,7 @@ async function page() {
             />
           </div>
           <div className="p-2 sm:p-3 flex flex-col">
-              <Link href="https://ynahka.github.io/inarihan/index.html">
+              <Link href="https://ynahka.github.io/inarihan/">
                 <p className='my-2 lg:my-3 cursor-pointer text-lg text-white sm:text-xl font-medium hover:text-violet-500'>
                   {'Inarihan Farm Resort'}
                 </p>
