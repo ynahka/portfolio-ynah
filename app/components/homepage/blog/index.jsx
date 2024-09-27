@@ -51,28 +51,6 @@ function Blog({ blogs }) {
           </div>
         </div>
          
-         <div className="border border-[#1d293a] hover:border-[#464c6a] transition-all duration-500 bg-[#1b203e] rounded-lg relative group">
-          <div className="h-44 lg:h-52 w-auto cursor-pointer overflow-hidden rounded-t-lg">
-            <Image
-              src= "/images/power-solution.png"
-              height={737}
-              width={1153}
-              alt=""
-              className='h-full w-full group-hover:scale-110 transition-all duration-300'
-            />
-          </div>
-          <div className="p-2 sm:p-3 flex flex-col">
-              <Link href="https://0387-2404-3c00-353f-be40-1ce1-fa66-5f1d-fd4e.ngrok-free.app/power-solution/">
-                <p className='my-2 lg:my-3 cursor-pointer text-lg text-white sm:text-xl font-medium hover:text-violet-500'>
-                  {'Power Solution System'}
-                </p>
-              </Link>
-
-              <p className='text-sm lg:text-base text-[#d3d8e8] pb-3 lg:pb-6 line-clamp-3'>
-                {''}
-              </p>
-          </div>
-        </div>
         <div className="border border-[#1d293a] hover:border-[#464c6a] transition-all duration-500 bg-[#1b203e] rounded-lg relative group">
           <div className="h-44 lg:h-52 w-auto cursor-pointer overflow-hidden rounded-t-lg">
             <Image
@@ -84,7 +62,7 @@ function Blog({ blogs }) {
             />
           </div>
           <div className="p-2 sm:p-3 flex flex-col">
-              <Link href="https://0387-2404-3c00-353f-be40-1ce1-fa66-5f1d-fd4e.ngrok-free.app/aguilar_portfolio/">
+              <Link href="https://3b80-2404-3c00-353f-be40-a8c7-bde8-da7f-371.ngrok-free.app/first-portfolio/">
                 <p className='my-2 lg:my-3 cursor-pointer text-lg text-white sm:text-xl font-medium hover:text-violet-500'>
                   {'My Portfolio Design'}
                 </p>

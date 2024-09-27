@@ -2,7 +2,7 @@ export const personalData = {
   name: "Gerryminah S. Aguilar",
   profile: '/profile.jpg',
   designation: "Web Developer",
-  description: "I am a professional and enthusiastic programmer. A quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of web application development and want to make the web more open to the world. I am available for any kind of job opportunity that suits my skills and interests.",
+  description: "An enthusiastic programmer who is a quick learner with a self-learning attitude. I love to learn and explore new technologies and passionate about problem-solving. I love almost all the stacks of web application development and want to make the web more open to the world. I am available for any kind of job opportunity that suits my skills and interests.",
   email: 'gerryminah04aguilar@gmail.com',
   phone: '+639912322284',
   address: 'Williams Street, Highway Hills, Mandaluyong City, Metro Manila',
