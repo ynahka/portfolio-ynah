@@ -73,6 +73,28 @@ function Blog({ blogs }) {
               </p>
           </div>
         </div>
+            <div className="border border-[#1d293a] hover:border-[#464c6a] transition-all duration-500 bg-[#1b203e] rounded-lg relative group">
+          <div className="h-44 lg:h-52 w-auto cursor-pointer overflow-hidden rounded-t-lg">
+            <Image
+              src= "/images/oma.png"
+              height={737}
+              width={1153}
+              alt=""
+              className='h-full w-full group-hover:scale-110 transition-all duration-300'
+            />
+          </div>
+          <div className="p-2 sm:p-3 flex flex-col">
+              <Link href="https://www.canva.com/design/DAGR7LGAUpI/aAG0wmgZdOYU8T-nMyaf_g/view?utm_content=DAGR7LGAUpI&utm_campaign=designshare&utm_medium=link&utm_source=editor">
+                <p className='my-2 lg:my-3 cursor-pointer text-lg text-white sm:text-xl font-medium hover:text-violet-500'>
+                  {'E-commerce Agri-Market'}
+                </p>
+              </Link>
+
+              <p className='text-sm lg:text-base text-[#d3d8e8] pb-3 lg:pb-6 line-clamp-3'>
+                {'A system for local farmers that enable them to market their localized produce and connect to a wide range of buyers.'}
+              </p>
+          </div>
+        </div>
       </div>
 
       <div className="flex justify-center  mt-5 lg:mt-12">
