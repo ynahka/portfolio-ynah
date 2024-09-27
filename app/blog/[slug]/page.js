@@ -13,7 +13,7 @@ async function getBlog(slug) {
 };
 
 async function BlogDetails({params}) {
-  const slug = params.slug;
+  const slug = params.slug;Y
   const blog = await getBlog(slug);
  
   return (

@@ -31,22 +31,22 @@ function Blog({ blogs }) {
            <div className="border border-[#1d293a] hover:border-[#464c6a] transition-all duration-500 bg-[#1b203e] rounded-lg relative group">
           <div className="h-44 lg:h-52 w-auto cursor-pointer overflow-hidden rounded-t-lg">
             <Image
-              src={''}
-              height={1080}
-              width={1920}
+              src= "/images/inarihan.png"
+              height={737}
+              width={1153}
               alt=""
               className='h-full w-full group-hover:scale-110 transition-all duration-300'
             />
           </div>
           <div className="p-2 sm:p-3 flex flex-col">
-              <Link href="https://poster-making.my.canva.site/">
+              <Link href="https://ynahka.github.io/inarihan/index.html">
                 <p className='my-2 lg:my-3 cursor-pointer text-lg text-white sm:text-xl font-medium hover:text-violet-500'>
-                  {'poster making'}
+                  {'Inarihan Farm Resort'}
                 </p>
               </Link>
 
               <p className='text-sm lg:text-base text-[#d3d8e8] pb-3 lg:pb-6 line-clamp-3'>
-                {'asdasada'}
+                {''}
               </p>
           </div>
         </div>
@@ -54,44 +54,44 @@ function Blog({ blogs }) {
          <div className="border border-[#1d293a] hover:border-[#464c6a] transition-all duration-500 bg-[#1b203e] rounded-lg relative group">
           <div className="h-44 lg:h-52 w-auto cursor-pointer overflow-hidden rounded-t-lg">
             <Image
-              src={''}
-              height={1080}
-              width={1920}
+              src= "/images/power-solution.png"
+              height={737}
+              width={1153}
               alt=""
               className='h-full w-full group-hover:scale-110 transition-all duration-300'
             />
           </div>
           <div className="p-2 sm:p-3 flex flex-col">
-              <Link href="https://poster-making.my.canva.site/bookanize">
+              <Link href="https://0387-2404-3c00-353f-be40-1ce1-fa66-5f1d-fd4e.ngrok-free.app/power-solution/">
                 <p className='my-2 lg:my-3 cursor-pointer text-lg text-white sm:text-xl font-medium hover:text-violet-500'>
-                  {'Bookanize'}
+                  {'Power Solution System'}
                 </p>
               </Link>
 
               <p className='text-sm lg:text-base text-[#d3d8e8] pb-3 lg:pb-6 line-clamp-3'>
-                {'asdnasldhalsddalshdals'}
+                {''}
               </p>
           </div>
         </div>
-             <div className="border border-[#1d293a] hover:border-[#464c6a] transition-all duration-500 bg-[#1b203e] rounded-lg relative group">
+        <div className="border border-[#1d293a] hover:border-[#464c6a] transition-all duration-500 bg-[#1b203e] rounded-lg relative group">
           <div className="h-44 lg:h-52 w-auto cursor-pointer overflow-hidden rounded-t-lg">
             <Image
-              src={''}
-              height={1080}
-              width={1920}
+              src= "/images/me-blog.png"
+              height={737}
+              width={1153}
               alt=""
               className='h-full w-full group-hover:scale-110 transition-all duration-300'
             />
           </div>
           <div className="p-2 sm:p-3 flex flex-col">
-              <Link href="https://poster-making.my.canva.site/bookanize">
+              <Link href="https://0387-2404-3c00-353f-be40-1ce1-fa66-5f1d-fd4e.ngrok-free.app/aguilar_portfolio/">
                 <p className='my-2 lg:my-3 cursor-pointer text-lg text-white sm:text-xl font-medium hover:text-violet-500'>
-                  {'iba naman'}
+                  {'My Portfolio Design'}
                 </p>
               </Link>
 
               <p className='text-sm lg:text-base text-[#d3d8e8] pb-3 lg:pb-6 line-clamp-3'>
-                {'dals'}
+                {''}
               </p>
           </div>
         </div>
